@@ -144,6 +144,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - [Empathetic Dialogues](https://github.com/facebookresearch/EmpatheticDialogues) by Facebook Research.
 - Hugging Face `transformers` team for the amazing library.
 - Gradio for making UI deployment effortless.
+- Special thanks to DevelopersHub Corporation© for the fantastic training opportunity.
 
 ---
 

@@ -133,6 +133,21 @@ demo.launch(share=True)
 
 ---
 
+📦 Dependencies
+Main packages:
+
+- transformers – for model and tokenizer
+- datasets – for dataset handling
+- accelerate – for efficient training
+- gradio – for the chat interface
+- torch – deep learning backend
+- scikit-learn – for K‑fold cross‑validation
+- nltk, wordcloud, seaborn, matplotlib – for EDA and visualizations
+
+All dependencies can be installed with the command above.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
